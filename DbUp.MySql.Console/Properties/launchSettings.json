@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "DbUp.MySql.Console": {
+      "commandName": "Project"
+    }
+  }
+}
